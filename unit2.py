@@ -237,5 +237,5 @@ def is_balanced(code):
 # print(is_balanced(code2)) 
 
 # problem 5
-def find_treasure_indices(gold_amounts, target):
+# def find_treasure_indices(gold_amounts, target):
     
